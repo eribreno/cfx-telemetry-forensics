@@ -4,7 +4,7 @@
 > Framework de segurança defensiva para monitoramento cinemático em tempo real
 > e análise forense de memória volátil no ecossistema FiveM / FXServer.
 >
-> **Autores:** Breno, Eric
+> **Autores:** Breno, Eric®
 
 
 ---
